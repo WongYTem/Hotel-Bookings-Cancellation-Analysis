@@ -1,4 +1,4 @@
-# hotel-booking-cancellation
+# Hotel Booking cancellation Analysis
 this dataset is from https://www.kaggle.com/jessemostipak/hotel-booking-demand/code
 ## Neural Network model to predict weather a booking will be cancelled
 The Neural Network model from [NN Model for booking cancellation using Keras in Python](https://github.com/WongYTem/hotel-booking-demand/blob/main/NN%20Model%20for%20booking%20cancellation%20using%20Keras%20in%20Python.py) for predicting cancellation has almost 100% accuracy (>0.999). 
