@@ -6,7 +6,7 @@ The Neural Network model from [NN Model for booking cancellation using Keras in 
 ![image](https://user-images.githubusercontent.com/97471111/149686770-2e470cb5-9d47-4bc6-8274-3be0dd346003.png)
 
 ##  Cancellation status 
-[Important variables that affect the cancellation](https://github.com/WongYTem/hotel-booking-demand/blob/main/Important%20variables%20that%20affect%20the%20cancellation%20.R)
+R file: [Important variables that affect the cancellation](https://github.com/WongYTem/hotel-booking-demand/blob/main/Important%20variables%20that%20affect%20the%20cancellation%20.R)
  
 ```
 # distribution of cancel
